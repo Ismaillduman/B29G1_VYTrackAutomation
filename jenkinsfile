@@ -1,6 +1,6 @@
 node {
     stage('Clone code') {
-        git 'https://github.com/Ismaillduman/B29G1_VYTrackAutomation.git'
+        git 'https://github.com/Ismaillduman/B29G1_VYTrackAutomation2.git'
     }
 
     stage('Run tests'){
